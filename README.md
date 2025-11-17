@@ -1,4 +1,4 @@
-# ${\textsf{\color{#FFC0CB}💫 About Me:}}$
+# ${\textsf{\color{#FFC0CB}🤗 About Me:}}$
 ☺️ Hey, I'm Fridah — Data Scientist → AI/ML Engineer (in progress)<br><br>I like to build things that help people make better decisions - and I’ve spent the last 3+ years in the edtech space contributing to systems that help solve student painpoints in their dream university & course choices.<br><br>I’m currently rebuilding myself from the ground up:  sharpening my engineering fundamentals, going deeper into AI/ML systems, and pushing myself to ship cleaner, more meaningful work - publicly, consistently, and end-to-end.<br><br>I’m not “starting over.”  <br>I’m levelling up with intention 😌.<br><br>
 ## ${\textsf{\color{#FFC0CB}🌱 What I’m doing right now}}$ <br>
 - Re-learning and mastering the fundamentals I rushed through.  <br>
