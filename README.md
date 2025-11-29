@@ -3,7 +3,7 @@
 ## ${\textsf{\color{#FFC0CB}🌱 What I’m doing right now}}$ <br>
 - Building **full end-to-end projects**: data → model → API → UI → deployment → monitoring.  <br>
 - Documenting the process openly (wins, mistakes, lessons).  <br>
-- Preparing for roles in **AI Engineering, ML Engineering, MLOps, and full-stack ML product work.**<br>
+- Preparing for roles in **AI Engineering, ML Engineering, MLOps,** and **full-stack ML product work.**<br>
 
 
 ## ${\textsf{\color{#FFC0CB}🌐 Socials:}}$
